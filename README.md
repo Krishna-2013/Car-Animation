@@ -24,13 +24,13 @@ This project demonstrates basic animation techniques and movement effects.
 
 ## 🎥 Demo
 
-👉 Live Demo: (Add your GitHub Pages link here)
+👉 Live Demo: https://krishna-2013.github.io/Car-Animation/
 
 ---
 
 ## 📸 Preview
 
-(Add a screenshot or GIF here)
+<img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/81581b36-2cf0-4ef8-95dc-ebda22f78f36" />
 
 ---
 
